@@ -1,0 +1,27 @@
+{
+  "name": "sih_ocean_hazard_backend",
+  "version": "1.0.0",
+  "description": "this is backend",
+  "homepage": "https://github.com/Omi0077/SIH-Project-Ocean-Hazard-Backend#readme",
+  "bugs": {
+    "url": "https://github.com/Omi0077/SIH-Project-Ocean-Hazard-Backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Omi0077/SIH-Project-Ocean-Hazard-Backend.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
